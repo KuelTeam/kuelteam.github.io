@@ -1,6 +1,10 @@
 {
     "changelogs": [
         {
+            "text": "Music Player",
+            "type": 1
+        },
+        {
             "text": "Modify File Interface",
             "type": 1
         },
@@ -18,10 +22,6 @@
         },
         {
             "text": "Via Version",
-            "type": 0
-        },
-        {
-            "text": "Web Browser",
             "type": 0
         }
     ]
