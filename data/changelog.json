@@ -1,0 +1,28 @@
+{
+    "changelogs": [
+        {
+            "text": "Modify File Interface",
+            "type": 1
+        },
+        {
+            "text": "Herobrine",
+            "type": 2
+        },
+        {
+            "text": "IRC",
+            "type": 0
+        },
+        {
+            "text": "Cape",
+            "type": 0
+        },
+        {
+            "text": "Via Version",
+            "type": 0
+        },
+        {
+            "text": "Web Browser",
+            "type": 0
+        }
+    ]
+}
