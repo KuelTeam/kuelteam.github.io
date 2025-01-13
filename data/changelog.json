@@ -1,27 +1,31 @@
 {
     "changelogs": [
-		{
+        {
             "text": "Music Player",
             "type": 1
         },
-		{
-            "text": "Modify File Interface",
-            "type": 1
-        },
-		{
-            "text": "Herobrine",
-            "type": 2
-        },
-		{
-            "text": "IRC",
-            "type": 0
-        },
-		{
-            "text": "Cape",
+        {
+            "text": "2 Capes",
             "type": 0
         },
         {
-            "text": "Via Version",
+            "text": "Microsoft Login",
+            "type": 1
+        },
+        {
+            "text": "Herobrine",
+            "type": 2
+        },
+        {
+            "text": "Download Music",
+            "type": 1
+        },
+        {
+            "text": "Better FPS",
+            "type": 1
+        },
+        {
+            "text": "IRC",
             "type": 0
         }
     ]
